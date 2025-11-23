@@ -1,2 +1,2 @@
-# -RoR2-PlayerBots-Issues
+# RoR2-PlayerBots-Issues
 Issue tracker for PlayerBots.
